@@ -1,0 +1,4 @@
+in incercarea de testare a programului am gasit faptul ca la calculul 4658+156-5/3 rezultatul este 4812.3335 dar rezultatul corect este 4812.3333 sau 4812.(3)
+la calculul 62896/3 a dat un rezultat mai diferit a dat 20965.334 dar rezultatul corect trebuia sa fie 20965.333 sau 20965.(3) 
+este o problema la impartire cu numerele impare sunt calcule care merg normal ca 986/3 cu rezultatul 328.66666 
+si am observat faptul ca rezultatul este maxim 9 caractere incluzind si punctul
